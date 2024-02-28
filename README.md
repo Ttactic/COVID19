@@ -4,10 +4,10 @@
 This repository contains Python code for analyzing COVID-19 data using `NumPy`, `Pandas`, and `Matplotlib`. The analysis includes visualizations of various COVID-19 metrics over time.
 
 ## Requirements
-- Python 3.x
-- NumPy
-- Pandas
-- Matplotlib
+- `Python` 3.x
+- `NumPy`
+- `Pandas`
+- `Matplotlib`
    
 ## Data
 The analysis uses COVID-19 data from the "covid_day_wise.csv" file.
