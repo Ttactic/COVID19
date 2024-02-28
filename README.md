@@ -10,7 +10,7 @@ This repository contains Python code for analyzing COVID-19 data using `NumPy`, 
 - `Matplotlib`
    
 ## Data
-The analysis uses COVID-19 data from the "covid_day_wise.csv" file.
+The analysis uses COVID-19 data from the "covid_19.csv" file.
 
 ## Visualizations
 The script generates line plots for various metrics, such as confirmed cases, deaths, recovered, and more.
